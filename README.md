@@ -20,8 +20,8 @@ Dataset Used
 Project Structure
 Datasets
 
-    Technology.xlxs
-    Demographics.xlxs
+    Technology.xlsx
+    Demographics.xlsx
 
 Upload these files as data assets in your Cognos Analytics project.
 Dashboards
